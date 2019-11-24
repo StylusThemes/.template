@@ -30,7 +30,7 @@ If you would like to contribute to this repository, please...
 [1]: #
 [size]: https://flat.badgen.net/badgesize/normal/StylusThemes/.Template/master/style.user.css
 [install]: https://flat.badgen.net/badge/install%20directly%20from/GitHub/00ADAD "Click here!"
-[2]: https://rebrand.ly/Template
+[2]: INSTALLURL
 [stars]: https://flat.badgen.net/github/stars/StylusThemes/.Template
 [3]: https://github.com/StylusThemes/.Template/stargazers
 [watchers]: https://flat.badgen.net/github/watchers/StylusThemes/.Template
@@ -65,5 +65,5 @@ If you would like to contribute to this repository, please...
 [XSTYChrome]: https://chrome.google.com/webstore/detail/xstyle/hncgkmhphmncjohllpoleelnibpmccpj
 [XSTYFirefox]: https://addons.mozilla.org/firefox/addon/xstyle/
 
-<!-- INSTALL YouTube Theater BADGE -->
-[YouTube Theater]: https://flat.badgen.net/badge/Template/install/00ADAD "Click here!"
+<!-- INSTALL BADGE -->
+[Template]: https://flat.badgen.net/badge/Template/install/00ADAD "Click here!"
